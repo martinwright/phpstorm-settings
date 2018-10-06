@@ -1,0 +1,9 @@
+<application>
+  <component name="BuiltInServerOptions" allowUnsignedRequests="true" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="9.2.0" last-modified="1510694254000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+</application>
